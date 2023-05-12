@@ -1,6 +1,6 @@
 # Terraform Module: 1Password SCIM Bridge
 
-This module deploys the 1Password SCIM Bridge container using Docker.
+This module deploys the 1Password SCIM Bridge container using Docker
 
 ## Usage
 

@@ -33,3 +33,5 @@ variable "scim_base_url" {
   description = "Base URL of the SCIM server"
   type        = string
 }
+
+#

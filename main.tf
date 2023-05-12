@@ -27,7 +27,7 @@ resource "docker_container" "scim_bridge" {
   lifecycle {
     ignore_changes = [docker_container.scim_bridge.environment]
   }
-}
+
 
 # Other resource definitions
 
