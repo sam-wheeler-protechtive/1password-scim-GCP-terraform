@@ -12,3 +12,5 @@ output "bridge_url" {
   description = "URL of the 1Password SCIM Bridge"
   value       = "https://${var.bridge_domain}:${var.port}"
 }
+
+#
